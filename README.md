@@ -113,3 +113,37 @@ As a future improvement, predictive models could be developed to estimate patien
 3. Integrate real-time hospital data.
 4. Apply Machine Learning models to predict patient demand and waiting times.
 5. Automate data ingestion using Apache Airflow.
+
+Top 10 Diagnosis
+<img width="886" height="656" alt="image" src="https://github.com/user-attachments/assets/b6e84228-07a2-4483-aabd-f17aaaa22873" />
+
+Average waiting time per diagnosis
+<img width="886" height="656" alt="image" src="https://github.com/user-attachments/assets/323f7f8b-9627-4451-8c81-52d456bfa071" />
+
+Average Waiting time per Age Group
+<img width="861" height="820" alt="image" src="https://github.com/user-attachments/assets/61127e16-d1d8-4d8e-ac53-1281a4db663d" />
+
+Waiting time in minutes per specialty
+<img width="886" height="628" alt="image" src="https://github.com/user-attachments/assets/5223b535-aafd-42c1-a736-6e434dff1d5d" />
+
+Diagnosis Average Cost
+<img width="886" height="656" alt="image" src="https://github.com/user-attachments/assets/55c1ed45-f390-417b-bacc-56828a9090ae" />
+
+Total Specialty Cost(MXN)
+<img width="886" height="798" alt="image" src="https://github.com/user-attachments/assets/58788c29-796b-4262-8590-6f97f2ef3703" />
+
+Age Group Cost percentage
+<img width="733" height="638" alt="image" src="https://github.com/user-attachments/assets/160b7c5a-7ffc-4b67-8ba6-7de0672db278" />
+
+Patients with more than 1 diagnosis
+<img width="870" height="760" alt="image" src="https://github.com/user-attachments/assets/69e4234c-227d-49d5-bcd0-8617c74b678d" />
+
+Medication Usage
+<img width="886" height="656" alt="image" src="https://github.com/user-attachments/assets/b3eca81e-c1b8-452e-9eef-2a3e992429b6" />
+
+Medication Usage per diagnosis
+<img width="886" height="711" alt="image" src="https://github.com/user-attachments/assets/eacc503d-59d0-4ace-9177-d7afdbc15aa6" />
+
+Medication Cost
+<img width="886" height="767" alt="image" src="https://github.com/user-attachments/assets/92a557f8-212c-43a9-a976-1a93cab7691d" />
+
